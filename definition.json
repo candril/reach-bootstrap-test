@@ -1,0 +1,18 @@
+{
+  "pluginId": "bootstrap-test",
+  "extensions": [
+    {
+      "area": "Page",
+      "componentName": "HelloWorld",
+      "route": "bootstrap",
+      "navigationNode": {
+        "label": "Bootstrap Plugin",
+        "iconName": "WebAppBuilderFragment"
+      }
+    }
+  ],
+  "settings": {
+    "greetingLabel": "Heya!",
+    "fontColor": "yellow"
+  }
+}

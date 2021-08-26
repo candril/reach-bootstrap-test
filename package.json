@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-test",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "dev": "reach-plugin-scripts dev",
+    "build": "reach-plugin-scripts build",
+    "publish": "reach-plugin-scripts publish",
+    "publish-web": "reach-plugin-scripts publishWeb",
+    "link-to-subscription": "reach-plugin-scripts linkToSubscription",
+    "generate-api-key": "reach-plugin-scripts generateApiKey"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@livetiles/reach-components-react": "0.2.285",
+    "@livetiles/reach-plugin-scripts": "0.2.13",
+    "@livetiles/reach-plugin-types": "0.2.59",
+    "@types/react": "16.9.34",
+    "@types/react-dom": "16.9.6",
+    "@types/styled-components": "5.1.0",
+    "babel-preset-react-app": "10.0.0",
+    "bootstrap": "^4.6.0",
+    "react-bootstrap": "^1.6.1",
+    "node-sass": "^6.0.1",
+    "react-bootstrap-range-slider": "^3.0.2",
+    "typescript": "4.3.5"
+  }
+}
